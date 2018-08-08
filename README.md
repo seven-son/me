@@ -4,7 +4,7 @@
 计划按着下面的路线开始学习。
 
 ## 计划
-1. [linux基本历史及常用命令](https://github.com/mqyqingfeng/Blog/issues/2)
+1. [linux基本历史及常用命令](https://github.com/seven-son/linux_day/blob/master/linux%20history.md)
 2. [vim基础及高级编程](https://github.com/mqyqingfeng/Blog/issues/3)
 3. [linuxc语言基础编程](https://github.com/mqyqingfeng/Blog/issues/4)
 4. [linuxc语言高级编程](https://github.com/mqyqingfeng/Blog/issues/5)
