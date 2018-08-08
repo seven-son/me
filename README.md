@@ -13,3 +13,5 @@
 7. [linux网络基础及高级编程](https://github.com/mqyqingfeng/Blog/issues/7)
 8. [go语言基础及高级编程](https://github.com/mqyqingfeng/Blog/issues/9)
 9. [python基础及高级编程](https://github.com/mqyqingfeng/Blog/issues/10)
+10.[汇编编程](https://github.com/mqyqingfeng/Blog/issues/10)
+11.[编译原理](https://github.com/mqyqingfeng/Blog/issues/10)
